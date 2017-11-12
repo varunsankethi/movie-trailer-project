@@ -20,13 +20,13 @@ avatar = media.Movie(
 inception = media.Movie(
 	"Inception",
         "Mind over matter",
-        "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",  #Noqa
+        "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",  # Noqa
         "https://www.youtube.com/watch?v=8hP9D6kZseM")
 
 beautiful_mind = media.Movie(
 	"A Beautiful Mind",
         "Biopic of John Nash",
-        "https://upload.wikimedia.org/wikipedia/en/b/b8/A_Beautiful_Mind_Poster.jpg",  #Noqa
+        "https://upload.wikimedia.org/wikipedia/en/b/b8/A_Beautiful_Mind_Poster.jpg",  # Noqa
         "https://www.youtube.com/watch?v=aS_d0Ayjw4o")
 
 the_dark_knight = media.Movie(
@@ -38,7 +38,7 @@ the_dark_knight = media.Movie(
 the_dark_knight_rises = media.Movie(
 	"The Dark Knight Rises",
         "Batman versus Bane",
-        "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg",  #Noqa
+        "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg",  # Noqa
         "https://www.youtube.com/watch?v=g8evyE9TuYk")
 
 # List of favourite movies named 'movies'
