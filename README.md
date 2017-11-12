@@ -1,2 +1,2 @@
-# movie-trailer-website
+# movie-trailer-project
 Source code for a Movie Trailer website.
